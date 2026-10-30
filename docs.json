@@ -8,9 +8,7 @@
     "groups": [
       {
         "group": "Home",
-        "pages": [
-          "index"
-        ]
+        "pages": []
       }
     ]
   }
